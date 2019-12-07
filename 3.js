@@ -9,7 +9,7 @@ chrome.extension.onMessage.addListener(function(request, sender, response) {
     }
     return true;
 });
-d233dd31fsgagsffsfddsdsds
+d233dd31fsgagsffsfddsdsdsd
 function createCommitsList(path, url) {
     let label = document.getElementsByClassName("commit-tease js-details-container Details d-flex rounded-top-1");
     if (label[0] !== undefined && label.length === 1) {
