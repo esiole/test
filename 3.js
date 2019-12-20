@@ -18,7 +18,7 @@ function createCommitsList(path, url) {
             for (let elem of usersCommits) if(elem.name === name) return true;
             return false;
         }
-
+gdfgdfgdg
         const xhttp = new XMLHttpRequest();
         xhttp.onreadystatechange = function (data) {
             if (this.readyState === 4 && this.status === 200) {
