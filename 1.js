@@ -19,7 +19,7 @@ function createComments(partPath, token) {
         getComments(comments, commentDiv, path, 1)
     }
 }
-
+zfefeewfwr
 function getComments(comments, commentDiv, path, numberPage) {
     const xhttp = new XMLHttpRequest();
     xhttp.onreadystatechange = function (data) {
